@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @emmanuelkipngetich
-- 👀 I’m interested in data science and web development.
-- 🌱 I’m currently learning python for datascience.
+- 👀 I’m interested in data analytics using Python, MySQL, Power BI, Excel and Machine Leraning.
+- 🌱 I’m currently in the learning phase.
 - 💞️ I’m looking to collaborate on projects towards fintech products.
-- 📫 How to reach me . 0727639047
+- 📫 How to reach me . +254727639047 or via manureservations@gmail.com
 
 <!---
 emmanuelkipngetich/emmanuelkipngetich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
