@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @emmanuelkipngetich
-- 👀 I’m interested in data analytics using Python, MySQL, Power BI, Excel and Machine Leraning.
+- 👀 I’m a professional in data analytics with skills in using Python, MySQL, Power BI, Excel and Machine Learning.
+- I am also learning new technologies as they emerge.
 - 🌱 I’m currently doing data analyst role internships.
 - 💞️ I’m looking to collaborate on projects towards fintech products.
 - 📫 How to reach me . +254727639047 or via manureservations@gmail.com
