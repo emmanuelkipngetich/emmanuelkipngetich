@@ -2,7 +2,7 @@
 - 👀 I’m a professional in data analytics with skills in using Python, MySQL, Power BI, Excel and Machine Learning.
 - I also work actively as a Data Modeller where I design, create, and manage data models for databases, applications, and information systems.
 - I am also learning new technologies as they emerge.
-- 🌱 I’m currently doing data analyst/Data modeller role internships.
+- 🌱 I am currently upskilling and actively exploring the data engineering space.
 - 💞️ I’m looking to collaborate on projects towards fintech products.
 - 📫 How to reach me . +254727639047 or via manureservations@gmail.com
 
